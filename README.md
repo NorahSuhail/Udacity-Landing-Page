@@ -4,7 +4,7 @@
 ## Table of Contents
 * [Instructions](#instructions)
 * [Building Tools](##Building)
-* [Project Features](##Project)
+* [Project Features](###Project)
 * [authors_name](#####authors_name)
 
 ## Instructions
